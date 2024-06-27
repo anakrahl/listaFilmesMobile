@@ -19,7 +19,7 @@ todos os itens da listagem serão gravados no banco criado anteriormente.
 
 PRINTS DA APLICAÇÃO:
 ### BANCO REALTIME DATABASE ###
-![image](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/43236d8f-ac75-40e9-81f3-4855231a6283)
+![image](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/4633b8f1-d8ac-44cf-89a1-eb40788367f6)
 
 ### TELA DA APLICAÇÃO ###
 ![telafilmes](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/717ca734-5365-47e8-b932-06934c15c396)

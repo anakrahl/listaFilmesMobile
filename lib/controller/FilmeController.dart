@@ -5,7 +5,7 @@ import 'package:listafilmes/models/filme.dart';
 
 class FilmeController {
   final String baseUrl =
-      "https://lista-de-filmes-e422c-default-rtdb.firebaseio.com/";
+      "https://listafilmes-c3bb9-default-rtdb.firebaseio.com/";
   final List<Filme> _filmes = [];
 
   Future<List<Filme>> getItems({bool? assistido}) async {

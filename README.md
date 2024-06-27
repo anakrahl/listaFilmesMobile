@@ -1,16 +1,10 @@
-# listafilmes
+PRINTS DA APLICAÇÃO:
 
-A new Flutter project.
+### TELA DA APLICAÇÃO ###
+![telafilmes](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/717ca734-5365-47e8-b932-06934c15c396)
 
-## Getting Started
+### ADICIONAR NOVO FILME ###
+![addfilme](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/40b63bfa-a7f4-4629-b3ee-bb3d0f2a2342)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### EDITAR FILME ###
+![editfilme](https://github.com/anakrahl/listaFilmesMobile/assets/135769876/9d1cd17e-be07-4d55-9173-afb9d2d93fca)

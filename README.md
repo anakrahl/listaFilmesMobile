@@ -14,7 +14,7 @@ DATABASE
 - import do pacote http no arquivo .controller
 - guardar a url do banco em uma variável baseUrl
 
-Ao rodar o código pela opção 'run without debug', será aberta a tela da aplicação que, se aberta com sucesso, o usuário poderá adicionar e listar seus filmes.
+Ao rodar o código pela opção 'run without debugging', será aberta a tela da aplicação que, se aberta com sucesso, o usuário poderá adicionar e listar seus filmes.
 todos os itens da listagem serão gravados no banco criado anteriormente.
 
 PRINTS DA APLICAÇÃO:
